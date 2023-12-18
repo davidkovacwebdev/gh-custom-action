@@ -73,5 +73,5 @@ jobs:
   information:
     runs-on: ubuntu-latest
     steps:
-      - name: Run custom actions
-        uses: ./.github/actions/deploy-s3-javascript
+      - name: Run custom actionasdasd
+        uses: .github/actions/deploy-s3-javascript
